@@ -2,20 +2,20 @@
   "name": "team-project-js",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://DmytroKarpenko88.github.io/team-project-js",
+  "homepage": "https://Mamont777.github.io/filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-js/"
+    "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DmytroKarpenko88/team-project-js.git"
+    "url": "git+https://github.com/Mamont777/filmoteka.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DmytroKarpenko88/team-project-js/issues"
+    "url": "https://github.com/Mamont777/filmoteka/issues"
   },
   "dependencies": {
     "axios": "^1.3.4",
